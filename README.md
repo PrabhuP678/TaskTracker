@@ -1,10 +1,12 @@
 # TaskTracker
 
+**Project URL:** [https://prabhup678.github.io/TaskTracker/](https://prabhup678.github.io/TaskTracker/)
+
+**GitHub Repository:** [https://github.com/PrabhuP678/TaskTracker](https://github.com/PrabhuP678/TaskTracker)
+
+
 TaskTracker is a simple Command Line Interface (CLI) application for managing tasks. It allows you to track, update, and manage your tasks in a JSON file. You can add tasks, update their status, delete tasks, and view lists of completed, pending, and in-progress tasks directly from the terminal.
 
-project URL: https://prabhup678.github.io/TaskTracker/
-
-TaskTracker GitHub Repository:https://github.com/PrabhuP678/TaskTracker
 
 Features
 Add Tasks: Add new tasks with a title.
